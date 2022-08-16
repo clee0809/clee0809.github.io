@@ -1,0 +1,18 @@
+main {
+  text-align: center;
+}
+.tictactoe {
+  margin: auto;
+}
+
+td {
+  background-color: rgb(86,151,255);
+}
+.tictactoe button {
+  background-color: rgb(208, 201, 192);  
+  border-radius: 50%;
+  border: 3px black solid;
+  height: 5.5em;
+  width: 5.5em;
+  margin: 0.5px;  
+}
